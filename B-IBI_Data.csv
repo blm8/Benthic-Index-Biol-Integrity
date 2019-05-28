@@ -1,0 +1,67 @@
+﻿ORDER,FAMILY,FEEDING_GROUP,COUNT,ENVIRON,SITE,CLINGER,INTOLERANT,LONGLIVED,PREDATOR,TOLERANT
+Tricoptera,Lepidostomatidae,Shredder,1,Shade,BigBeefCreek,No,No,No,No,No
+Coleoptera,Elmidae,Scraper,4,Shade,BigBeefCreek,Yes,No,Yes,No,No
+Tricoptera,Brachycentridae,Filtering Collector,5,Shade,BigBeefCreek,Yes,No,No,No,No
+Ephemeroptera,Ephemerellidae,Gathering Collector,27,Shade,BigBeefCreek,Yes,No,No,No,No
+Ephemeroptera,Ameletidae,Gathering Collector,1,Shade,BigBeefCreek,No,No,No,No,No
+Annelida,Oligochaeta,Gathering Collector,7,Shade,BigBeefCreek,No,No,No,No,No
+Tricoptera,Rhyacophilidae,Predator,6,Shade,BigBeefCreek,No,No,No,Yes,No
+Ephemeroptera,Heptageniidae,Scraper,8,Shade,BigBeefCreek,Yes,No,No,No,No
+Plecoptera,Capniidae,Shredder,2,Shade,BigBeefCreek,No,No,No,No,No
+Diptera,Simuliidae,Filtering Collector,2,Shade,BigBeefCreek,Yes,No,No,No,No
+Tricoptera,Uenoidae,Scraper,2,Shade,BigBeefCreek,No,No,No,No,No
+Plecoptera,Chloroperlidae,Predator,2,Shade,BigBeefCreek,Yes,No,No,Yes,No
+Ephemeroptera,Heptageniidae,Scraper,2,Shade,BigBeefCreek,Yes,No,No,No,No
+Ephemeroptera,Baetidae,Gathering Collector,3,Shade,BigBeefCreek,No,No,No,No,No
+Annelida,Oligochaeta,Gathering Collector,3,Shade,BigBeefCreek,No,No,No,No,No
+Gastropoda,Limpida,Scraper,1,Shade,BigBeefCreek,No,No,No,No,No
+Odonata,Gomphidae,Predator,1,Shade,BigBeefCreek,No,No,Yes,Yes,No
+Plecoptera,Leuctridae,Shredder,1,Shade,BigBeefCreek,No,Yes,No,No,No
+Tricoptera,Limnephilidae,Filtering Collector,1,Sun,BigBeefCreek,No,No,No,No,No
+Diptera,Chironomidae,Gathering Collector,6,Sun,BigBeefCreek,No,No,No,No,No
+Diptera,Tipulidae,Shredder,1,Sun,BigBeefCreek,No,No,No,No,No
+Ephemeroptera,Baetidae,Gathering Collector,1,Sun,BigBeefCreek,No,No,No,No,No
+Plecoptera,Nemourinae,Predator,2,Sun,BigBeefCreek,No,No,No,No,No
+Ephemeroptera,Ameletidae,Gathering Collector,4,Sun,BigBeefCreek,No,No,No,No,No
+Plecoptera,Capniidae,Shredder,1,Sun,BigBeefCreek,No,No,No,No,No
+Tricoptera,Uenoidae,Scraper,7,Sun,BigBeefCreek,No,No,No,No,No
+Diptera,Chironomidae,Predator,30,Sun,BigBeefCreek,No,No,No,No,No
+Tricoptera,Brachycentridae,Shredder,6,Sun,BigBeefCreek,Yes,No,No,No,No
+Coleoptera,Elmidae,Gathering Collector,4,Sun,BigBeefCreek,Yes,No,Yes,No,No
+Ephemeroptera,Ephemerellidae,Gathering Collector,17,Sun,BigBeefCreek,Yes,No,No,No,No
+Ephemeroptera,Leptophlebiidae,Gathering Collector,1,Sun,BigBeefCreek,Yes,No,No,No,No
+Ephemeroptera,Heptageniidae,Scraper,4,Sun,BigBeefCreek,Yes,No,No,No,No
+Ephemeroptera,Baetidae,Gathering Collector,10,Sun,BigBeefCreek,No,No,No,No,No
+Plecoptera,Chloroperlidae,Predator,5,Sun,BigBeefCreek,Yes,No,No,Yes,No
+Plecoptera,Perlodidae,Predator,3,Sun,BigBeefCreek,Yes,No,No,Yes,No
+Tricoptera,Brachycentridae,Shredder,44,Sun,BigBeefCreek,Yes,No,No,No,No
+Tricoptera,Rhyacophilidae,Predator,4,Sun,BigBeefCreek,No,No,No,Yes,No
+Tricoptera,Polycentropodidae,Predator,13,Sun,BigBeefCreek,Yes,No,No,Yes,No
+Diptera,Simulidae,Filtering Collector,3,Sun,BigBeefCreek,Yes,No,No,No,No
+Annelida,Oligochaeta,Gathering Collector,5,Sun,BigBeefCreek,No,No,No,No,No
+Tricoptera,Philopotamidae,Filtering Collector,1,Sun,BigBeefCreek,Yes,No,No,No,No
+Plecoptera,Nemourinae,Shredder,4,Sun,BigBeefCreek,No,No,No,No,No
+Diptera,Tipulidae,Shredder,2,Sun,BigBeefCreek,No,No,No,No,No
+Tricoptera,Psychomyiidae,Gathering Collector,1,Sun,BigBeefCreek,No,No,No,No,No
+Tricoptera,Hydropsychidae,Filtering Collector,1,Sun,BigBeefCreek,Yes,No,No,No,No
+Plecoptera,Leuctridae,Shredder,1,Sun,BigBeefCreek,No,Yes,No,No,No
+Coleoptera,Haliplidae,Scraper,3,Lab,ExampleStream,No,No,Yes,No,Yes
+Ephemeroptera,Baetidae,Gathering Collector,26,Lab,ExampleStream,No,No,No,No,No
+Oligochaeta,Oligochaeta,Filtering Collector,23,Lab,ExampleStream,No,No,No,No,No
+Plecoptera,Capniidae,Predator,20,Lab,ExampleStream,No,No,No,No,No
+Diptera,Tipulidae,Filtering Collector,26,Lab,ExampleStream,No,No,No,No,No
+Coleoptera,Hydrophilidae,Scavenger,3,Lab,ExampleStream,No,No,Yes,Yes,No
+Plecoptera,Nemourinae,Shredder,15,Lab,ExampleStream,No,No,No,No,No
+Diptera,Elmidae,Filtering Collector,45,Lab,ExampleStream,Yes,No,Yes,No,No
+Tricoptera,Glossosomatinae,Scraper,15,Lab,ExampleStream,Yes,No,No,No,No
+Annelida,Hirudinidae,Filtering Collector,36,Lab,ExampleStream,No,No,No,Yes,No
+Diptera,Chironomidae,Gathering Collector,42,Lab,ExampleStream,No,No,No,No,No
+Tricoptera,Hydropsychidae,Filtering Collector,15,Lab,ExampleStream,Yes,No,No,No,No
+Diptera,Psychididae,Filtering Collector,22,Lab,ExampleStream,No,No,No,No,No
+Tricoptera,Uenoidae,Scraper,28,Lab,ExampleStream,No,No,No,No,No
+Plecoptera,Pteronarcyidae,Shredder,18,Lab,ExampleStream,No,No,Yes,No,No
+Tricoptera,Brachycentridae,Filtering Collector,17,Lab,ExampleStream,Yes,No,No,No,No
+Amphipoda,Gammaridae,Shredder,20,Lab,ExampleStream,No,No,No,No,Yes
+Diptera,Simulidae,Filtering Collector,20,Lab,ExampleStream,Yes,No,No,No,No
+Plecoptera,Chloroperlidae,Shredder,17,Lab,ExampleStream,Yes,No,No,Yes,No
+Megaloptera,Sialidae,Shredder,4,Lab,ExampleStream,No,No,No,Yes,No
